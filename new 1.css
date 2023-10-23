@@ -1,0 +1,50 @@
+.header{
+	background-color:#f1f1f1;
+	text-align:center;
+}
+ 
+li{
+display:inline;
+float:left;
+
+
+}	
+
+li a {
+	padding: 14px 16px;
+}
+
+ul {
+   
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+ 
+.education{
+	background-color:lightblue;
+}
+
+.projects{
+	background-color:lightblue;
+}
+
+.email{
+	float:left;
+}
+
+.emptybox{
+	width: 250px;
+	height: 160px;
+	float:left;
+	
+}
+
+
+.thk{
+	
+	float:left;
+}
+.clear{
+	clear:both;
+}
